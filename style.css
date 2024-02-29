@@ -4,9 +4,9 @@ body{
 }
 
 h2{
-    background-color: greenyellow;
+    background-color: pink;
      color:white;
-     border-bottom: 6px solid darkgreen;
+     border-bottom: 6px solid palevioletred;
      padding:6px 12px 0 12px;
      margin-bottom: 0;
     
@@ -14,20 +14,20 @@ h2{
 
 h1{
     font-size: 3em;
-    background-color: #228b22;
+    background-color: palevioletred;
     color:ivory;
     margin:0;
     padding:16px;
 }
 
 .box{
-    background-color: #deb887;
+    background-color: powderblue;
     padding: 12px;
     border-radius: 0 0 16px 16px;
 }
 
 nav{
-    background-color: darkgreen;
+    background-color: pink;
     padding: 0 16px;
 }
 
@@ -41,7 +41,7 @@ nav ul{
 }
 
 nav a{
-    color:ivory;
+    color:bisque;
 }
 
 nav a:hover{
